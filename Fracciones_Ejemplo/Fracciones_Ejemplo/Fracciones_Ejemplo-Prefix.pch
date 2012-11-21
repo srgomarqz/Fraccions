@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Fracciones_Ejemplo' target in the 'Fracciones_Ejemplo' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
